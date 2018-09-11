@@ -1,3 +1,3 @@
 # "Hello World!"
 
-# "Hellow World,I'am Lavita"
+# "Hello World,I'am Lavita"
